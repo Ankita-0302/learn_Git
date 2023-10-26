@@ -6,6 +6,7 @@ Class progra{
         intc;
         c=a+b;
         System.out.println("sum= "+c);
+        //commitS
     }
     
 }
